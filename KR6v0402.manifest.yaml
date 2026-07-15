@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0402/v1
 canonical_location: https://kanripo.org/bkk/KR6v0402/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 律宗燈譜
   source:
@@ -18,13 +18,13 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0402_000.yaml, hash: 'sha256:236ed89fded0bb0d97089ac0b9cf1228f11ef1f87b24cbcbac9a98f275b83206'}
-  - {seq: 1, filename: KR6v0402_001.yaml, hash: 'sha256:5d445cbd0dc0c576779b3bedbf73f668917cb5be7d6e830ffb8e23ed38963ca5'}
-  - {seq: 2, filename: KR6v0402_002.yaml, hash: 'sha256:7b3f0cca13a19058612181efc648cec60e7109182bd806a56ecd3d6baa71ecf3'}
+  - {seq: 0, filename: KR6v0402_000.yaml, hash: 'sha256:57a082ab5d4e2b17b7112e7403eada00e4e91f2f0121163af7c249bbf5087e0a'}
+  - {seq: 1, filename: KR6v0402_001.yaml, hash: 'sha256:f2ba26f1f1539cb321ce4ad8bf5d1e49c8c19eb5e4e791f43236c6df61bc24d2'}
+  - {seq: 2, filename: KR6v0402_002.yaml, hash: 'sha256:0af9aa830e877c68a426a5f5bbdc5236e146f2314ceb762dc163c274c133df1a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0402_000.markers.yaml, hash: 'sha256:8800986cd3179b2354f5e720b8cd8ce5d16e7920ce01ee7552daa9c26177b296'}
-  - {seq: 1, role: markers, filename: assets/KR6v0402_001.markers.yaml, hash: 'sha256:9b12db12f16b557511437ed6d372107c3333c96eebb918c0159804856df4439c'}
-  - {seq: 2, role: markers, filename: assets/KR6v0402_002.markers.yaml, hash: 'sha256:a2ce6305f6e26ca3278a41525773078249aac15ee1afacaa40090aa476311756'}
+  - {seq: 0, role: markers, filename: assets/KR6v0402_000.markers.yaml, hash: 'sha256:8a6d3c5be938d8449d2d6f9dbb2fb72cc00cf1d8f5120b48c66933f0f29be5a7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0402_001.markers.yaml, hash: 'sha256:823e31907116d01f8fc33134ebe9ee567a9c8b9f53dad7b4255994885333e9a3'}
+  - {seq: 2, role: markers, filename: assets/KR6v0402_002.markers.yaml, hash: 'sha256:4b2fe99e26dcaa9b48ac9ba39146740d78b77f50f6bacadf9771c482bfcc2a8d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1966,4 +1966,7 @@ table_of_contents:
   label: 古祖下十世
   type: mulu
   level: 1
-hash: sha256:ab5a3be331e5e7a675bf9fcd52179993667b9d72fc528a49f54555d2b1b909db
+hash: sha256:f7677c87f67a2a3fbb0d3a1997913a70b03c75df8e4d302af272ddda50e46266
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
